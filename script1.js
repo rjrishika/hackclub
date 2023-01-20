@@ -12,7 +12,7 @@ function fun1(click){
         location.href="3rd.html";
     }
     else{
-         alert("wrong");
+   
         location.href="5th.html";
     }
 
